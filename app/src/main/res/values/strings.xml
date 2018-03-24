@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="label">Title</string>
+    <string name="hint">Enter a title 4 crime</string>
+    <string name="details">Details</string>
+    <string name="solved">Solved</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_st">Show Subtitle</string>
+    <string name="hide_st">Hide Subtitle</string>
+    <string name="st_format">%1$d crimes</string>
+    <string name="del">Delete</string>
+    <string name="choose_suspect">Choose suspect</string>
+    <string name="send_report">Send Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="cr_solved">The case is solved</string>
+    <string name="cr_unsolved">The case is not solved</string>
+    <string name="cr_no_suspect">there is no suspect.</string>
+    <string name="cr_suspect">the suspect is %s.</string>
+    <string name="cr_subject">CriminalIntent Crime Report</string>
+    <string name="cr_send">Send crime report via</string>
+    <string name="dial">DIAL</string>
+
+
+    <plurals name="subs_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+
+</resources>
